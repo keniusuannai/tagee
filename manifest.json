@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "tagee",
+  "description": "The Smartest Chrome Tag Manager",
+  "version": "0.0.1",
+  "default_locale": "zn",
+  "icons": {
+    "48": "images/icon_19.png",
+    "128": "images/icon_38.png"
+  },
+  "permissions": [
+    "tabs",
+    "http://*/*",
+    "https://*/*",
+    "notifications"
+  ]
+}
